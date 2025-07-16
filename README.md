@@ -45,12 +45,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-```bash
+
 ###  4. Create a .env file and add your OpenRouter API key
+```bash
 OPENAI_API_KEY="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"
 ```
-```bash
+
 
 ###  5. Run the app
+```bash
 streamlit run streamlit_app.py
 ```
