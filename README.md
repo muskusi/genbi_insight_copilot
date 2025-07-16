@@ -100,3 +100,9 @@ Forecast chart displayed in light mode with CSV download option.
 ### 📌 Business Metrics & Forecast Dashboard (Screenshot 6)  
 Comprehensive dashboard with KPIs, GPT question box, and forecast slider.  
 ![KPI Dashboard](images/screenshot6.png)
+
+## 👤 Author
+
+**Samskruthi Musku**  
+Data Analyst
+🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/) |
