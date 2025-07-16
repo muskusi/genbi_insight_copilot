@@ -101,7 +101,7 @@ Forecast chart displayed in light mode with CSV download option.
 Comprehensive dashboard with KPIs, GPT question box, and forecast slider.  
 ![KPI Dashboard](images/screenshot6.png)
 
-## 👤 Author
+
 
 ## 👤 Author
 
@@ -109,3 +109,11 @@ Comprehensive dashboard with KPIs, GPT question box, and forecast slider.
 Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/)  
 📎 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)
+
+## 🏆 Achievements
+
+- Built and deployed an end-to-end AI-powered business insights tool using Streamlit, Python, and LLMs.
+- Automated revenue forecasting with Prophet, delivering actionable insights from raw CSV data.
+- Integrated natural language processing to enable conversational data exploration.
+- Designed an intuitive, user-friendly dashboard with both dark and light mode support.
+- Published multiple projects focused on data storytelling, visual analytics, and real-time insights.
