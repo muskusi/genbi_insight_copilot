@@ -33,11 +33,11 @@
    git clone https://github.com/muskusi/genbi_insight_copilot.git
    cd genbi_insight_copilot
 
-Create and activate a virtual environment:
+2. Create and activate a virtual environment:
  ```bash
    python3 -m venv venv
 source venv/bin/activate
----
-## Install dependencies:
+
+3. Install dependencies:
  ```bash
 pip install -r requirements.txt
