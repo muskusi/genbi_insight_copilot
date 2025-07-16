@@ -74,4 +74,8 @@ streamlit run streamlit_app.py
 
 ---
 ## 🖼️ Screenshots
-screenshots of Streamlit UI and output:
+
+Here’s a quick look at the GenBI Insight Copilot in action:
+
+### 🔍 KPI Dashboard View  
+![KPI Preview](images/screenshot1.png)
