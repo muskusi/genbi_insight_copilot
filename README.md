@@ -38,36 +38,7 @@
    python3 -m venv venv
 source venv/bin/activate
 
-3. Install dependencies:
- ```bash
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
-
-4. Create a .env file in the root directory and add your OpenRouter API key:
- ```bash
-OPENAI_API_KEY="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"
-
-5. Run the app:
-streamlit run streamlit_app.py
-
-## 💬 Example Questions to Ask the Copilot
-
-- What is the average revenue?
-- Show me total sales by month.
-- What was the highest revenue day?
-- Forecast revenue for the next 30 days.
-- What are the top 5 selling products?
-
----
-
-## 🔐 Notes on LLM Setup & API Key
-
-- This project uses OpenRouter to interact with models like Mistral 7B.
-- Replace the placeholder key with your own valid OpenRouter API key in the `.env` file.
-- The key is securely loaded using the `python-dotenv` package.
-- Visit [OpenRouter.ai](https://openrouter.ai) to get your free API key.
-
----
-
-## 🖼️ Screenshots
-
-To include screenshots of your Streamlit UI and output:
