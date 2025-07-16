@@ -77,5 +77,26 @@ streamlit run streamlit_app.py
 
 Here’s a quick look at the GenBI Insight Copilot in action:
 
-### 🔍 KPI Dashboard View  
-![KPI Preview](images/screenshot1.png)
+### 📊 Revenue Over Time (Screenshot 1)  
+Line chart showing revenue trends across dates.  
+![Revenue Chart](images/screenshot1.png)
+
+### 📈 Revenue Forecast Output (Screenshot 2)  
+Forecast visualization using Prophet with uncertainty intervals.  
+![Forecast](images/screenshot2.png)
+
+### 🧾 Data Preview & GPT Response (Screenshot 3)  
+Table preview of uploaded CSV and LLM answering user question.  
+![Q&A Preview](images/screenshot3.png)
+
+### 🌙 Dark Theme Forecast Interface (Screenshot 4)  
+Forecast chart displayed on a dark-themed UI.  
+![Dark Forecast](images/screenshot4.png)
+
+### 🌤️ Light Theme Forecast Interface (Screenshot 5)  
+Forecast chart displayed in light mode with CSV download option.  
+![Light Forecast](images/screenshot5.png)
+
+### 📌 Business Metrics & Forecast Dashboard (Screenshot 6)  
+Comprehensive dashboard with KPIs, GPT question box, and forecast slider.  
+![KPI Dashboard](images/screenshot6.png)
