@@ -41,8 +41,8 @@ source venv/bin/activate
 ### 3. Install dependencies
 
 ```bash
-pip install -r requirements.txt
-```bash
+pip install -r requirements.txt         ```
+
 
 ### 4. Create a .env file in the root directory and add your OpenRouter API key
 OPENAI_API_KEY=
