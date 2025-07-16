@@ -107,4 +107,4 @@ Comprehensive dashboard with KPIs, GPT question box, and forecast slider.
 Data Analyst
 🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/) 
   
-📎 Portfolio: [samskruthireddy088.wixsite.com/my-site-2](https://samskruthireddy088.wixsite.com/my-site-2)
+📎 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)
