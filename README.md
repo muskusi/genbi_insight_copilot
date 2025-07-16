@@ -51,8 +51,26 @@ pip install -r requirements.txt
 OPENAI_API_KEY="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"
 ```
 
-
 ###  5. Run the app
 ```bash
 streamlit run streamlit_app.py
 ```
+## 💬 Example Questions to Ask the Copilot
+
+- What is the average revenue?
+- Show me total sales by month.
+- What was the highest revenue day?
+- Forecast revenue for the next 30 days.
+- What are the top 5 selling products?
+
+---
+
+## 🔐 Notes on LLM Setup & API Key
+
+- This project uses OpenRouter to interact with models like Mistral 7B.
+- Replace the placeholder key with your own valid OpenRouter API key in the `.env` file.
+- The key is securely loaded using the `python-dotenv` package.
+- Visit [OpenRouter.ai](https://openrouter.ai) to get your free API key.
+
+---
+## 🖼️ Screenshots
