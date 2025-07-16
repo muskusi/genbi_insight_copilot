@@ -48,5 +48,6 @@ OPENAI_API_KEY="sk-or-v1-833d33444748b1b8a1f04b7d2113bdd2d4f980bd4b122043697f7bd
 
 5. Run the app:
 streamlit run streamlit_app.py
+---
 
 ##  💬 Example Questions to Ask the Copilot
