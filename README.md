@@ -105,7 +105,5 @@ Comprehensive dashboard with KPIs, GPT question box, and forecast slider.
 
 **Samskruthi Musku**  
 Data Analyst
-
 🔗 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/) 
-  
 📎 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)
